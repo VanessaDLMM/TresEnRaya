@@ -5,6 +5,7 @@ Una vez completado el numero maximo de turnos o conseguidas las tres en raya, fi
 
 https://github.com/VanessaDLMM/TresEnRaya/blob/main/Salida%20por%20consola2.png
 https://github.com/VanessaDLMM/TresEnRaya/blob/main/Salida%20por%20consola1.png
+https://github.com/VanessaDLMM/TresEnRaya/blob/main/Salida%20por%20consola.png
 
 
 
